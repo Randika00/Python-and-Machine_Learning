@@ -1,2 +1,2 @@
 ## Python-and-Machine_Learning
-`Python` `Machin-Learning` `MySQL` `Bootstrap`
+`Python` `Machine-Learning` `Jupyter Notebook` `Tensorflow`
